@@ -1,2 +1,4 @@
 Smth new in the file
 And new line
+
+And new string
